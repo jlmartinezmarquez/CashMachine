@@ -1,0 +1,18 @@
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.exe.config
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.exe
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.pdb
+C:\Jose\CashMachine\CashMachine\obj\Debug\CashMachine.csprojResolveAssemblyReference.cache
+C:\Jose\CashMachine\CashMachine\obj\Debug\CashMachine.exe
+C:\Jose\CashMachine\CashMachine\obj\Debug\CashMachine.pdb
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.Business.dll
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.Model.dll
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.Repository.dll
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.Business.pdb
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.Model.pdb
+C:\Jose\CashMachine\CashMachine\bin\Debug\CashMachine.Repository.pdb
+C:\Temp\CashMachine\CashMachine\bin\Debug\CashMachine.exe.config
+C:\Temp\CashMachine\CashMachine\obj\Debug\CashMachine.exe
+C:\Temp\CashMachine\CashMachine\obj\Debug\CashMachine.pdb
+C:\Temp\New folder\CashMachine\CashMachine\bin\Debug\CashMachine.exe.config
+C:\Temp\New folder\CashMachine\CashMachine\obj\Debug\CashMachine.exe
+C:\Temp\New folder\CashMachine\CashMachine\obj\Debug\CashMachine.pdb

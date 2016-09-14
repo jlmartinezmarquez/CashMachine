@@ -1,0 +1,5 @@
+C:\Jose\CashMachine\CashMachine.Model\bin\Debug\CashMachine.Model.dll
+C:\Jose\CashMachine\CashMachine.Model\bin\Debug\CashMachine.Model.pdb
+C:\Jose\CashMachine\CashMachine.Model\obj\Debug\CashMachine.Model.csprojResolveAssemblyReference.cache
+C:\Jose\CashMachine\CashMachine.Model\obj\Debug\CashMachine.Model.dll
+C:\Jose\CashMachine\CashMachine.Model\obj\Debug\CashMachine.Model.pdb
