@@ -1,4 +1,4 @@
-At home task
+Cash Machine:
 
 There is a special cash machine, without any security, that dispenses money (notes and coins). The machine has a given initial state of what coins and notes it has available. 
 The initial state is: 100x1p, 100x2p, 100x5p, 100x10p, 100x20p, 100x50p, 100x£1, 100x£2, 50x£5, 50x£10, 50x£20, 50x£50.
